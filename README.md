@@ -11,3 +11,4 @@ These were attempts at creating dashboards for future projects and to look back 
 ![Screenshot 2024-07-21 190617](https://github.com/user-attachments/assets/e6a35b38-234e-485b-a5cc-3578b5e525ee)
 
 ## Mobile Responisve
+![Screenshot 2024-07-21 190851](https://github.com/user-attachments/assets/0b9c4914-348b-479f-bc67-fe52fdbe30f1)
